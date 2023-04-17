@@ -1,0 +1,16 @@
+header {
+    background: var(--gray-500);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+
+header img {
+    height: 9rem;
+}
+
+header svg {
+    color:#25D366; 
+}
